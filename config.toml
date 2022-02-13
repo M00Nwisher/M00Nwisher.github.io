@@ -1,6 +1,0 @@
-baseURL = 'M00Nwisher.github.io'
-languageCode = 'zh-cn'
-title = "M00Nwisher 's Blog"
-theme = 'PaperMod'
-[Params]
-  math = true
