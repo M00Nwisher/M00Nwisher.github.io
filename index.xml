@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>M00Nwisher 's Blog</title><link>https://M00Nwisher.github.io/</link><description>Recent content on M00Nwisher 's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 13 Feb 2022 21:50:06 +0800</lastBuildDate><atom:link href="https://M00Nwisher.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo建站参考</title><link>https://M00Nwisher.github.io/post/hugo-bulit-blog/</link><pubDate>Sun, 13 Feb 2022 21:50:06 +0800</pubDate><guid>https://M00Nwisher.github.io/post/hugo-bulit-blog/</guid><description>折腾Hugo | GitHub Pages | Github Actions自动构建发布免费个人网站 - 知乎
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>M00Nwisher 's Blog</title><link>https://M00Nwisher.github.io/</link><description>Recent content on M00Nwisher 's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 13 Feb 2022 21:50:06 +0800</lastBuildDate><atom:link href="https://M00Nwisher.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://M00Nwisher.github.io/about/</link><pubDate>Sat, 26 Feb 2022 17:45:42 +0800</pubDate><guid>https://M00Nwisher.github.io/about/</guid><description>Welcome!
+This site is mainly used to record and accumulate some technical problems I encountered, most of which are written in a mess (please don&amp;rsquo;t mind&amp;hellip;), it would be great if these posts can help you, even just a little.
+Feel free to leave comments! ;-)
+Language: 中文(Chinese)/日本語(Japanese)/English
+Email: bTAwbndpc2hlciNwcm90b25tYWlsLmNvbQ== Github RSS</description></item><item><title>Hugo建站参考</title><link>https://M00Nwisher.github.io/post/hugo-bulit-blog/</link><pubDate>Sun, 13 Feb 2022 21:50:06 +0800</pubDate><guid>https://M00Nwisher.github.io/post/hugo-bulit-blog/</guid><description>折腾Hugo | GitHub Pages | Github Actions自动构建发布免费个人网站 - 知乎
 Hugo: Deploy Static Site using GitHub Actions
 Features · adityatelange/hugo-PaperMod Wiki
 How to override CSS classes with Hugo - support - HUGO
@@ -6,4 +10,6 @@ Hugo + even + GitHub Pages+ Utterances搭建个人博客 - 知乎
 hugo LeaveIt主题优化二 - 简书
 blogdown搭建网站以及hugo主题修改_Liripo-CSDN博客
 Pasting images into Hugo markdown with vsCode on macOS</description></item><item><title>Helloworld</title><link>https://M00Nwisher.github.io/post/helloworld/</link><pubDate>Sat, 12 Feb 2022 22:50:06 +0800</pubDate><guid>https://M00Nwisher.github.io/post/helloworld/</guid><description>Hello, Hugo
-#include &amp;#34;world.h&amp;#34;int main(){ printf(&amp;#34;wow&amp;#34;); } $$cool$$</description></item></channel></rss>
+#include &amp;#34;world.h&amp;#34;int main(){ printf(&amp;#34;wow&amp;#34;); } $$cool$$
+![](./img/foobar.jpg#center)
+CodePresent Day, Present Time</description></item></channel></rss>
